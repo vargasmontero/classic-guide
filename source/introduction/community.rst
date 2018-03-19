@@ -34,7 +34,7 @@ Further specialised subreddits:
 Ethereum Classic Wiki
 ================================================================================
 
-* Ethereum Classic Wiki: `ETHC wiki <http://ethcwiki.org/index.php?title=Main_Page>`_
+* Ethereum Classic Wiki: `ETHC wiki <http://etcwiki.org/index.php?title=Main_Page>`_
 
 
 .. _Telegram:
